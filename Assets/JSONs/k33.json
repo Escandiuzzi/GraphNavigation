@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "A",
+    "Coordenates": "-9.95,-9.8",
+    "Vertices": [
+      "B"
+    ]
+  },
+  {
+    "Name": "B",
+    "Coordenates": "-9.95,9.8",
+    "Vertices": [
+      "C",
+      "E"
+    ]
+  },
+  {
+    "Name": "C",
+    "Coordenates": "0.0,-9.8",
+    "Vertices": [
+      "D"
+    ]
+  },
+  {
+    "Name": "D",
+    "Coordenates": "0.0,9.8",
+    "Vertices": [
+      "E",
+      "A"
+    ]
+  },
+  {
+    "Name": "E",
+    "Coordenates": "9.95,-9.8",
+    "Vertices": [
+      "F"
+    ]
+  },
+  {
+    "Name": "F",
+    "Coordenates": "9.95,9.8",
+    "Vertices": [
+      "C",
+      "A"
+    ]
+  }
+]

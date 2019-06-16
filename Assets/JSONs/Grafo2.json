@@ -1,0 +1,1 @@
+[{"Name":"A","Coordenates":"-16.9,0.5","Vertices":["B","D"]},{"Name":"B","Coordenates":"-17.1,5.2","Vertices":["C"]},{"Name":"C","Coordenates":"19.5,0.4","Vertices":["A"]},{"Name":"D","Coordenates":"15.6,-1.4","Vertices":["C"]}]

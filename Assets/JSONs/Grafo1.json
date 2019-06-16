@@ -1,0 +1,18 @@
+[
+  
+  {
+    "Name": "A",
+    "Coordenates": "0,0.1",
+    "Vertices": [ "B" ]
+  },
+  {
+    "Name": "B",
+    "Coordenates": "-0.1,-12.9",
+    "Vertices": [ "C" ]
+  },
+  {
+    "Name": "C",
+    "Coordenates": "11.4,0.2",
+    "Vertices": [ "A" ]
+  }
+]

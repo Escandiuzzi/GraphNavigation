@@ -1,0 +1,70 @@
+[
+  {
+    "Name": "A",
+    "Coordenates": "0.0,-9.3",
+    "Vertices": [
+      "B",
+      "C",
+      "G",
+      "H"
+    ]
+  },
+  {
+    "Name": "B",
+    "Coordenates": "-7,0.2",
+    "Vertices": [
+      "A",
+      "D"
+    ]
+  },
+  {
+    "Name": "C",
+    "Coordenates": "7,0.2",
+    "Vertices": [
+      "D",
+      "A"
+    ]
+  },
+  {
+    "Name": "D",
+    "Coordenates": "0.0,12",
+    "Vertices": [
+      "B",
+      "F",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "Name": "E",
+    "Coordenates": "-5.7,17.2",
+    "Vertices": [
+      "D",
+      "F"
+    ]
+  },
+  {
+    "Name": "F",
+    "Coordenates": "5.7,17.2",
+    "Vertices": [
+      "E",
+      "D"
+    ]
+  },
+  {
+    "Name": "G",
+    "Coordenates": "-12.5,-18.9",
+    "Vertices": [
+      "H",
+      "A"
+    ]
+  },
+  {
+    "Name": "H",
+    "Coordenates": "12.5,-18.9",
+    "Vertices": [
+      "A",
+      "G"
+    ]
+  }
+]
